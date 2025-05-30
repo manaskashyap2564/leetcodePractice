@@ -2,7 +2,7 @@ public class maximumSubarray {
 
 }
 
-// brute force 
+// brute force (fails on TLE values)
     
 // class Solution {
 //     public int maxSubArray(int[] nums) {
