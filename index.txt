@@ -8,3 +8,6 @@ Leetcode Practice >> -- Starting Date : 27th MAy 2025
 
 ))))))))))))Day-3))))))))))))
 1. Leetcode #1920. Build Array from Permutation
+
+))))))))))))Day-4))))))))))))
+1. Leetcode #1512. Number of Good Pairs
