@@ -11,3 +11,6 @@ Leetcode Practice >> -- Starting Date : 27th MAy 2025
 
 ))))))))))))Day-4))))))))))))
 1. Leetcode #1512. Number of Good Pairs
+
+))))))))))))Day-5))))))))))))
+1. Leetcode #
