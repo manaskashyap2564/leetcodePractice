@@ -17,3 +17,6 @@ Leetcode Practice >> -- Starting Date : 27th MAy 2025
 
 ))))))))))))Day-6))))))))))))
 1. Leetcode #42. Trapping Rain Water
+
+))))))))))))Day-7))))))))))))
+1. Leetcode #121. Best Time to Buy and Sell Stock
