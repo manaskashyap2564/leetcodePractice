@@ -23,3 +23,6 @@ Leetcode Practice >> -- Starting Date : 27th MAy 2025
 
 ))))))))))))Day-8))))))))))))
 1. Leetcode #2843. Count Symmetric Integers
+
+))))))))))))Day-9))))))))))))
+1. Leetcode #9. Palindrome Number
