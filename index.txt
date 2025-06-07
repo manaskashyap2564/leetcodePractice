@@ -26,3 +26,6 @@ Leetcode Practice >> -- Starting Date : 27th MAy 2025
 
 ))))))))))))Day-9))))))))))))
 1. Leetcode #9. Palindrome Number
+
+))))))))))))Day-10))))))))))))
+1. Leetcode #2418. Sort the People
