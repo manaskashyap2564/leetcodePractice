@@ -35,3 +35,6 @@ Leetcode Practice >> -- Starting Date : 27th MAy 2025
 
 ))))))))))))Day-12))))))))))))
 1. Leetcode #1800. Maximum Ascending Subarray Sum
+
+))))))))))))Day-13))))))))))))
+1. Leetcode #2016. Maximum Difference Between Increasing Elements
