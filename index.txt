@@ -43,4 +43,4 @@ Leetcode Practice >> -- Starting Date : 27th MAy 2025
 1. Leetcode #28. Find the Index of the First Occurrence in a String
 
 ))))))))))))Day-15))))))))))))
-1. Leetcode #
+1. Leetcode #69. Sqrt(x)
