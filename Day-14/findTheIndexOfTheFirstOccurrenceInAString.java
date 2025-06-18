@@ -8,4 +8,4 @@ public class findTheIndexOfTheFirstOccurrenceInAString {
 //         if(n1<n2) return -1;
 //         else return s1.indexOf(s2);
 //     }
-// }
+// }git 
